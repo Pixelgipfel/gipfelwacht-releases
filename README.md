@@ -40,6 +40,15 @@ Authenticode-Prüfung muss `Valid` melden und als Herausgeber die in den
 Release Notes genannte Pixelgipfel-Organisation anzeigen. Bei einer
 Abweichung die Datei nicht starten.
 
+Für dieses Repository sind unveränderliche GitHub-Releases aktiviert. Mit
+einer aktuellen GitHub CLI lässt sich zusätzlich prüfen, ob die lokale Datei
+exakt zum veröffentlichten Release-Artefakt gehört:
+
+```powershell
+gh release verify-asset <TAG> .\GIPFELWACHT-Setup-<VERSION>-x64.exe `
+  --repo Pixelgipfel/gipfelwacht-releases
+```
+
 ## Support und Sicherheitsmeldungen
 
 - Support: [info@pixelgipfel.ch](mailto:info@pixelgipfel.ch)
