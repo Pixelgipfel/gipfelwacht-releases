@@ -11,7 +11,8 @@ Download müssen Code-Signing, Windows-11-Abnahme, Rechtstexte und der
 Shop-/Lizenzierungsweg vollständig geprüft sein.
 
 Offizielle Veröffentlichungen erscheinen ausschließlich unter
-[Releases](../../releases). Ein Kundenrelease enthält mindestens:
+[Releases](https://github.com/Pixelgipfel/gipfelwacht-releases/releases).
+Ein Kundenrelease enthält mindestens:
 
 - `GIPFELWACHT-Setup-<VERSION>-x64.exe`;
 - die zugehörige `.sha256`-Datei;
@@ -47,4 +48,3 @@ Die Nutzung eines Release-Artefakts richtet sich nach den jeweils
 mitgelieferten Produktbedingungen und Drittanbieterhinweisen. Dieses
 Artefakt-Repository erteilt für sich allein keine zusätzlichen Rechte und
 ändert keine Rechte aus eingebundenen Open-Source-Lizenzen.
-
