@@ -56,6 +56,10 @@ gh release verify-asset <TAG> .\GIPFELWACHT-Setup-<VERSION>-x64.exe `
 - Sicherheitsprobleme bitte **nicht öffentlich** als Issue veröffentlichen;
   stattdessen die Hinweise in [SECURITY.md](SECURITY.md) verwenden.
 
+Das öffentliche Issue- und Diskussionssystem dieses reinen
+Artefaktrepositories ist deaktiviert, damit Supportfälle keine Bestell-,
+Lizenz-, System- oder Kinderdaten versehentlich offenlegen.
+
 ## Rechte
 
 Die Nutzung eines Release-Artefakts richtet sich nach den jeweils
