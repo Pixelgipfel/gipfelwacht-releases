@@ -21,6 +21,10 @@ Ein Kundenrelease enthält mindestens:
 Unsigned Dateien mit `TEST-UNSIGNED` im Namen sind interne Prüfbauten und
 werden hier nicht veröffentlicht.
 
+GitHub kann pro Release automatisch „Source code“-Archive dieses kleinen
+Artefaktrepositories anzeigen. Diese Archive sind **weder** der
+GIPFELWACHT-Quellcode **noch** der Windows-Installer.
+
 ## Download verifizieren
 
 Nach einer offiziellen Veröffentlichung in PowerShell:
