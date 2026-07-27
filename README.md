@@ -16,6 +16,7 @@ Ein Kundenrelease enthält mindestens:
 
 - `GIPFELWACHT-Setup-<VERSION>-x64.exe`;
 - die zugehörige `.sha256`-Datei;
+- `GIPFELWACHT-<TAG>-provenance.json` mit Quellcommit und Buildlauf;
 - nachvollziehbare Release Notes.
 
 Unsigned Dateien mit `TEST-UNSIGNED` im Namen sind interne Prüfbauten und
