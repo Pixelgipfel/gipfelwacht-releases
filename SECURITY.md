@@ -24,13 +24,13 @@ gefahrlos möglich – enthalten:
 - Hash der betroffenen Datei;
 - Einschätzung der möglichen Auswirkungen.
 
-Pixelgipfel bestätigt den Eingang, prüft die Meldung und stimmt die nächsten
-Schritte mit der meldenden Person ab. Bitte vor einer öffentlichen
-Veröffentlichung ausreichend Zeit für Bewertung und Korrektur lassen.
+Nach Sichtung stimmen wir Eingangsbestätigung und nächste Schritte mit der
+meldenden Person ab; vor dem Kundenrelease wird noch kein festes
+Reaktionszeit-SLA zugesagt. Bitte vor einer öffentlichen Veröffentlichung
+ausreichend Zeit für Bewertung und Korrektur lassen.
 
 ## Nicht mitsenden
 
 - Passwörter, API-Token, private Schlüssel oder vollständige Lizenzdateien;
 - reale Bestell-, Kinder-, Chat-, Sprach- oder andere personenbezogene Daten;
 - unaufgefordert ausgeführte Tests gegen Systeme Dritter.
-
